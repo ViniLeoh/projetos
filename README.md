@@ -7,3 +7,5 @@
 ### mais novas modificações
 
 *Uso do comando restore mais uma vez
+
+*comando git pull   
